@@ -1,0 +1,6 @@
+#+Title: PAIP Code
+
+We are working on the book [[http://norvig.com/paip.html][Paradigms of Artificial Intelligence
+Programming: Case Studies in Common Lisp]]. The idea is to adapt the
+code for using packages and quicklisp.
+
