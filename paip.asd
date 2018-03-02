@@ -1,7 +1,5 @@
 ;;  Author: Alexandre Rademaker
 ;;
-;; For info why the dependencies file is necessary, read
-;; http://weitz.de/packages.html
 
 (asdf:defsystem #:paip
     :serial t
